@@ -106,5 +106,12 @@ df_iris %>%
   geom_boxplot() +
   geom_point()
 
+## alpha controls transparency
+df_iris %>% 
+  ggplot(aes(x = Species,
+             y = Petal.Length,
+             color = Species)) +
+  geom_boxplot() +
+  geom_point(alpha = 0.1)
 
   
