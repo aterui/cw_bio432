@@ -21,3 +21,6 @@
 
 ## which one is the most likely factor controling shell size difference?
 ## - look at sheet2
+## - this part is not coding but for discussion; no stats will be performed
+
+## produce `html` report and turn in on CANVAS
